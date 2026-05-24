@@ -126,7 +126,7 @@ Food-Waste-PowerBI-Dashboard/
 │
 ├── dashboard.pbix
 ├── dataset/
-├── screenshots/
+├── screenshot/
 ├── README.md
 ```
 
@@ -134,12 +134,12 @@ Food-Waste-PowerBI-Dashboard/
 
 ## Screenshots
 
-Add dashboard screenshots inside the `screenshots/` folder and display them here.
+Add dashboard screenshots inside the `screenshot/` folder and display them here.
 
 Example:
 
 ```md
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](screenshot/dashboard.png)
 ```
 
 ---
