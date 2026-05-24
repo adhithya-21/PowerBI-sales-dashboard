@@ -154,6 +154,6 @@ Example:
 
 ## Author
 
-Your Name Here
+Adhithya Jayawardhana
 
 ---
